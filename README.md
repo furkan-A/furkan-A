@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furkan-A
 - 👀 I’m interested in Full Stack Development and Mobile Development.
-- 🌱 I’m currently learning Node.js, React, Django and Flutter
+- 🌱 I’m currently learning `Node.js`, `React`, `Django` and `Flutter`
 <!---  💞️ I’m looking to collaborate on ... --->
 
 
