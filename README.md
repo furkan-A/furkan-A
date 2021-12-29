@@ -36,4 +36,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkan-A&show_icons=true&theme=radical&locale=en&layout=compact" alt="furkan-aktas" width="40%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkan-A&show_icons=true&theme=dark&locale=en" alt="furkan-aktas" width="48%" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkan-A&show_icons=true&theme=dark&locale=en" alt="furkan-aktas" width="48%" /></p>
+ -->
