@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in Full Stack Development and Mobile Development.
-- 🌱 I’m currently learning `Node.js`, `Django` and `Flutter`
+- 🌱 I’m currently learning `Node.js` and `Flutter`
 - 📫 How to reach me **furkanaktas.x@hotmail.com**
 
 
