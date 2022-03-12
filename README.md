@@ -2,8 +2,8 @@
 <h3 align="center">Software Developer</h3>
 
 
-- 👀 I’m interested in Full Stack Development and Mobile Development.
-- 🌱 I’m currently learning `Node.js` and `Flutter`
+- 👀 I’m interested in Backend Development and Mobile Development.
+- 🌱 I’m currently learning `Node.js`, `Java Spring` and `Flutter`
 - 📫 How to reach me **furkanaktas.x@hotmail.com**
 
 
