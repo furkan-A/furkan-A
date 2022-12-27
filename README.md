@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in Backend Development and Mobile Development.
-- 🌱 I’m currently learning `Node.js`, `Java Spring` and `Flutter`
+- 🌱 I’m currently learning `Node.js`, `React` and `Java Spring`
 - 📫 How to reach me **furkanaktas.x@hotmail.com**
 
 
