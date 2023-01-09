@@ -2,8 +2,8 @@
 <h3 align="center">Software Developer</h3>
 
 
-- 👀 I’m interested in Backend Development and Mobile Development.
-- 🌱 I’m currently learning `Node.js`, `React` and `Java Spring`
+- 👀 I’m interested in Full Stack Development and Mobile Development.
+- 🌱 I’m currently learning `Node.js`, `React`, `Java Spring` and `React Native`
 - 📫 How to reach me **furkanaktas.x@hotmail.com**
 
 
