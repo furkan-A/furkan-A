@@ -24,11 +24,11 @@
   
   
 <h3 align="left">Tools:</h3>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="30"/> </a>
-<a href="https://bitbucket.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="bitbucket" width="30" height="30"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+<a href="https://bitbucket.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="bitbucket" width="70" height="30"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://vectorwiki.com/images/ZgSyR__intellij-idea.svg" alt="intellij" width="30" height="30"/> </a>
-<a href="https://jira.atlassian.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="70" height="30"/> </a> 
+<a href="https://jira.atlassian.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="30" height="30"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
 <a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
  
