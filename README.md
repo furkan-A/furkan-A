@@ -39,3 +39,4 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkan-A&show_icons=true&theme=dark&locale=en" alt="furkan-aktas" width="48%" /></p>
  -->
+![snake svg](https://github.com/furkan-A/furkan-A/blob/output/github-contribution-grid-snake.svg)
