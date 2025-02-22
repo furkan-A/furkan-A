@@ -7,18 +7,21 @@
 - 📫 How to reach me **furkanakt21@gmail.com**
 
 
-<h3 align="left">Connect with me:    <a href="https://linkedin.com/in/furkan-aktas-x" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="furkan-aktas" height="30" width="30" /></a>
+<h3 align="left">Connect with me:    <a href="https://linkedin.com/in/furkan-aktas-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="furkan-aktas" height="30" width="30" /></a>
 </h3>
 
 
 <h3 align="left">Languages and Technologies:</h3>
 <p align="left"> 
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="java_spring" width="60" height="30"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="60" height="30"/> </a> 
-<a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/> </a> 
+<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring" width="60" height="30"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" width="60" height="30"/> </a> 
+<a href="https://www.oracle.com/tr/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" width="48" height="30"/> </a>
+<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="48" height="30"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://kafka.apache.org/logos/kafka_logo--simple.png" alt="Kafka" width="48" height="30"/> </a>
+<a href="https://junit.org/junit5/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="30" height="30"/> </a> 
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
-<a href="https://www.oracle.com/tr/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle_db" width="48" height="30"/> </a>
 <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="30" height="30"/> </a>
 <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/> </a> 
   
