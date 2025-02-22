@@ -2,8 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently using `Java Spring`, `React`  and `Spring Batch`
+- 🌱 I’m currently using `Java Spring`, `Spring Batch`, `JUnit`, `Kafka` and `React`
 - 📫 How to reach me **furkanakt21@gmail.com**
 
 
@@ -22,7 +21,6 @@
 <a href="https://junit.org/junit5/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="30" height="30"/> </a> 
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="30" height="30"/> </a>
 <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/> </a> 
   
   
