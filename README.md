@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 
-- 👀 I’m interested in Full Stack Development and Mobile Development.
-- 🌱 I’m currently learning `Node.js`, `React`, `Java Spring` and `React Native`
-- 📫 How to reach me **furkanaktas.x@hotmail.com**
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently using `Java Spring`, `React`  and `Spring Batch`
+- 📫 How to reach me **furkanakt21@gmail.com**
 
 
 <h3 align="left">Connect with me:    <a href="https://linkedin.com/in/furkan-aktas-x" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="furkan-aktas" height="30" width="30" /></a>
